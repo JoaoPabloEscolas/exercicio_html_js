@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container form{
+    padding: 12px 12px;
+}
+
+.container h1 {
+    display: flex;
+    padding: 16px ;
+    margin: 18px 10px;
+    background-color: burlywood;
+}
+
