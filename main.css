@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     margin: 0;
     padding: 0;
@@ -14,3 +15,22 @@
     margin: 18px 10px;
     background-color: burlywood;
 }
+=======
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container form{
+    padding: 12px 12px;
+}
+
+.container h1 {
+    display: flex;
+    padding: 16px ;
+    margin: 18px 10px;
+    background-color: burlywood;
+}
+
+>>>>>>> 108f17d5a59e21dc02b566f7ba7f9064e34cff6b
